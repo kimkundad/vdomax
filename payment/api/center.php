@@ -1,6 +1,6 @@
 <?php
 // Web Service for Max Point Center (Main) and for other uses.
-
+$a = date();
 // fetch kernal
 require('/home/new2/kernal.php');
 
